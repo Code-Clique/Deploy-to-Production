@@ -24,3 +24,5 @@ To set up AWS-CLI, simply:
   - Windows: https://awscli.amazonaws.com/AWSCLIV2.msi
   - Linux: curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
   - Mac: https://awscli.amazonaws.com/AWSCLIV2.pkg
+- To verify your installation: 
+  - run `aws --version`
