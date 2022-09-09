@@ -16,7 +16,7 @@ Once a push occurs, the code will be automatically deployed to https://code-cliq
 
 # Frontend Service
 
-If this is your first time deploying a <Strong>Frontend Service</Strong> please set up <Strong>AWS-CLI</Strong> first.
+If this is your first time deploying a <Strong>Frontend Service</Strong> please set up [AWS-CLI](#aws-cli) first.
 - Head into your Service's Directory using `cd $YOURPROJECTPATH`
 - Run `npm run deploy`
 Congratulations, your service has been deployed to production
