@@ -29,4 +29,5 @@ To set up AWS-CLI, simply:
   - In case of an Error follow instructions here: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-troubleshooting.html
 - Configure:
   - Run `aws configure` in your shell of choice
-  - 
+  - Fill credentials according to https://github.com/Code-Clique/Secrets/blob/main/.env
+  - If a credential does not appear in the file, simply skip it by pressing `Enter`
