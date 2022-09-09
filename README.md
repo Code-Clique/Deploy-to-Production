@@ -27,3 +27,6 @@ To set up AWS-CLI, simply:
 - To verify your installation: 
   - Run `aws --version` in your shell of choice
   - In case of an Error follow instructions here: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-troubleshooting.html
+- Configure:
+  - Run `aws configure` in your shell of choice
+  - 
