@@ -2,8 +2,8 @@
 
 ### Choose type of deployment:
 
-- Server: 
-- Frontend Service: 
+- [Server](#server)
+- [Frontend Service](#frontend-service)
 
 
 # Server
